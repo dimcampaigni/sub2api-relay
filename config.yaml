@@ -16,3 +16,4 @@ redis:
   db: 0
 jwt:
   secret: "relay-jwt-secret-2026-change-me-please-32chars"
+  expire_hour: 24
